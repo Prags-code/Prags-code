@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Pragti</h2>
 <p>
-I'm currently a software engineer at <strong><a href="https://www.oracle.com/in/health/">Oracle Health</a></strong>, and I previously interned at <strong>Accolite Digital</strong>. Based in 🌏 Bangalore, India, I work professionally on Cerner Millennium applications, explore side projects, learn new skills (and dishes 🍳), and aim to conquer a small part of the world.
+I'm currently a Configuration Analyst at <strong><a href="https://www.oracle.com/in/health/">Oracle Health</a></strong>, and I previously interned at <strong>Accolite Digital</strong>. Based in 🌏 Bangalore, India, I work professionally on Cerner Millennium applications, explore side projects, learn new skills (and dishes 🍳), and aim to conquer a small part of the world.
 </p>
 
 ---
