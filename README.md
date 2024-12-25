@@ -11,9 +11,10 @@ I'm currently a software engineer at <strong><a href="https://www.oracle.com/in/
 <a href="https://www.instagram.com/_._pragatijha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<!-- <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" height="250" style="margin-top: 250px;"  /> -->
+<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" 
+     style="float: right; margin-top: 20px; width: 250px; height: 333px;" />
 
----
 
 <h2>⚡ Quick Facts About Me</h2>
 <ul>
@@ -26,7 +27,7 @@ I'm currently a software engineer at <strong><a href="https://www.oracle.com/in/
 <li>🎵 Outside of tech, I enjoy music, socializing with friends, and writing poems. ✍️</li>
 </ul>
 
----
+--------
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; ***Skills***  
 <img src="https://media.giphy.com/media/bDR8BPB0ZO8mfcbNkB/giphy.gif" width="30">
